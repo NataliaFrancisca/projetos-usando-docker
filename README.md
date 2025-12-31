@@ -5,7 +5,7 @@ Este repositório reúne pequenos projetos criados para praticar e consolidar me
 O foco inicial é desenvolver projetos simples para entender os conceitos fundamentais, e futuramente evoluir para aplicações maiores e mais completas utilizando a tecnologia.
 
 ### 📦 Projetos:
-- [ ] **Servidor web simples**  
+- [X] **Servidor web simples**  
       Configuração de um servidor web básico utilizando Docker.
 
 - [ ] **Dockerização de um script em Python**  
